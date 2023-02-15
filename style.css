@@ -1,0 +1,59 @@
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: large;
+    font-family:'Courier';
+    background-color: #fff0dd;
+}
+
+#h1{
+text-align: center;
+}
+
+#font input{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: large;
+    font-family:'Courier';
+    position: relative;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 2px solid #d1d3d4;
+}
+#font input:focus{
+    outline: none;
+    border-color:antiquewhite;
+}
+.leftdiv{
+    width: 33.3%; 
+    height: 100%;
+     float: left;
+    background-color: #fff0dd;
+}
+.tasksdiv{
+    width: 100%; 
+    height: 10%;
+     float: left;
+}
+
+.middlediv{
+    margin-left: 33.3%; 
+    height: 100%;
+    background: #fff0dd;
+}
+
+.rightdiv{
+    width: 33.3%; 
+    height: 100%;
+    float: right;
+     background-color: #fff0dd;
+}
+
+#todotasks{
+   width: 33.3%; 
+   height: 10%;
+   background-color: #fff0dd;
+}
